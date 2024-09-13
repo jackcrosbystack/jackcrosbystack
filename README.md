@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jackcrosbystack
-- 👀 I’m interested in software engineering and AI
+- 👀 I’m interested in software engineering, AI, and game development
 - 🌱 I’m currently learning ML and backend development
-- 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me jackcrosbystack@gmail.com
 - ⚡ Fun fact: I love Dune
 
